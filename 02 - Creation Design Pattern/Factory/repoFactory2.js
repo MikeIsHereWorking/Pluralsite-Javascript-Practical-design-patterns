@@ -10,4 +10,4 @@
 	};
 
 
-	module.exports = repoFactory();
+	module.exports = new repoFactory;
